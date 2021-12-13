@@ -7,3 +7,5 @@ This is a Holiday present for a friend 🤓
 
 Feel free to check it out here [PixieCat Tokens](https://solscan.io/token/2fvPmqYk1NemSQ3NFUSu3zw3LgiZKxzFoz79oqkKdmaY).
 If you want some too, send me your SOL Wallet address.
+
+My SOL Wallet address is: 7zAdKsbmNcChFMtiRDunyv4rm3py5WQJAGJEgg9fLFmG
